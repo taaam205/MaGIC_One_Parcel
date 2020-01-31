@@ -97,4 +97,4 @@
 
 ## **License**
 
-Do not you for commercial reasons.
+MaGIC_One_Parcel is licensed under the MIT license. Do not you for commercial reasons.
